@@ -316,10 +316,10 @@ p{
     font-size: 3rem
   }
   h5{
-    font-size: 2rem
+    font-size: 2.2rem
   }
   p{
-    font-size: 1.3rem
+    font-size: 1.8rem
   }
   .imgfav{
     width: 70%;
@@ -329,7 +329,8 @@ p{
   }
    .btnn{
      width: 5rem;
-     height: 5rem
+     height: 5rem;
+     margin-right: 4rem
    }
    .labelsiz{
      font-size: 1.5rem
@@ -337,4 +338,5 @@ p{
    .navbarrr{
      font-size: 2.1rem
    }
+
 }
