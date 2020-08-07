@@ -376,7 +376,12 @@ p {
   }
 
   .navbarrr {
-    font-size: 2.1rem
+    font-size: 2.1rem;
+    padding: 3%;
+  }
+
+  .navbar-toggler {
+    font-size: 4rem;
   }
 
   .favh {
