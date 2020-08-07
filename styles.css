@@ -361,7 +361,7 @@ p {
 
   .imgfav {
     width: 70%;
-    height: 400px;
+    height: 450px;
     margin: 0
   }
 
@@ -382,6 +382,7 @@ p {
 
   .navbar-toggler {
     font-size: 3rem;
+
   }
 
   .favh {
